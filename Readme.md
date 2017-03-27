@@ -14,7 +14,7 @@ This is a very basic **Tic-Tac-Toe** game.It will implement a few rules and cond
  [Tic-Tac-Toe](http://jyotsnasingh.com/projects/JavaScript/Tic-Tac-Toe/)
 
 ## Usage
-  
+  ![alt text](https://github.com/Jyotsna-Singh/Tic-Tac-Toe/blob/master/img/game.PNG "Tic-Tac-Toe")
 
 ## Vendors
 jQuery - [http://jquery.com](http://jquery.com) 
