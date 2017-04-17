@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# ![alt tag](https://github.com/Jyotsna-Singh/Tic-Tac-Toe/blob/master/img/logo.PNG)
 
 This is a very basic **Tic-Tac-Toe** game.It will implement a few rules and conditionals for things like not being able to click in the same square twice.
 
@@ -10,8 +10,8 @@ This is a very basic **Tic-Tac-Toe** game.It will implement a few rules and cond
 ## Version
 1.0
 
-## Live Demo
- [JyotsnaSingh/Tic-Tac-Toe](http://jyotsnasingh.com/projects/JavaScript/Tic-Tac-Toe/)
+## Live Demo - Tic-Tac-Toe
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/JavaScript/Tic-Tac-Toe/)
 
 ## Usage
   ![alt text](https://github.com/Jyotsna-Singh/Tic-Tac-Toe/blob/master/img/game.PNG "Tic-Tac-Toe")
